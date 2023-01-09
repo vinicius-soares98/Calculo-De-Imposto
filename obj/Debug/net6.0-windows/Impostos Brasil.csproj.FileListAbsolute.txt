@@ -1,0 +1,24 @@
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\bin\Debug\net6.0-windows\Impostos Brasil.exe
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\bin\Debug\net6.0-windows\Impostos Brasil.deps.json
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\bin\Debug\net6.0-windows\Impostos Brasil.runtimeconfig.json
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\bin\Debug\net6.0-windows\Impostos Brasil.dll
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\bin\Debug\net6.0-windows\Impostos Brasil.pdb
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos Brasil.csproj.AssemblyReference.cache
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos_Brasil.Impostos.resources
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos Brasil.csproj.GenerateResource.cache
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos Brasil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos Brasil.AssemblyInfoInputs.cache
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos Brasil.AssemblyInfo.cs
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos Brasil.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos Brasil.dll
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\refint\Impostos Brasil.dll
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos Brasil.pdb
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos Brasil.genruntimeconfig.cache
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\ref\Impostos Brasil.dll
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos_Brasil.CalculoImpostoME.resources
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos_Brasil.CalculoSN.resources
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos_Brasil.FrmCalculoSN.resources
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos_Brasil.Frm12MesesOuMais.resources
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos_Brasil.FrmAnexos.resources
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos_Brasil.Frm1Mes.resources
+C:\Users\Vinícius Soares\Documents\C# Arquivos\Aulas VS Community\Impostos Brasil\obj\Debug\net6.0-windows\Impostos_Brasil.Frm2a11Meses.resources
